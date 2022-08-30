@@ -9,9 +9,9 @@
 }
 
 body {
-  background-image: url(https://www.kankipetshop.com/kanki-pet-105-cm-akvaryum-arka-fon-yapistirma-105x52-cm-1258-P-2.png);
+  background-size: cover;
+  background-image: url(https://cdn.create.vista.com/api/media/medium/171805216/stock-photo-colored-smokey-background?token=);
 }
-
 main.container {
   background-color: rgb(13, 19, 35);
   width: 84rem;
@@ -156,6 +156,14 @@ main.container {
 
 .boxheader h2 {
   font-size: medium;
+}
+
+footer {
+  text-align: center;
+}
+.anka {
+  width: 3rem;
+  height: 3rem;
 }
 
 @media screen and (min-width: 0) and (max-width: 600px) {
